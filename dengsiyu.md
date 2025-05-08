@@ -41,3 +41,5 @@ npm run build
 ```
 ### 3. Deploy
 Deploy the contents of the `build` folder to your static file server. You can use various services like Netlify, Vercel, or GitHub Pages to host your application.
+
+<!--dengsiyu>
