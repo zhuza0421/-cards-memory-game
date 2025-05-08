@@ -19,27 +19,37 @@ npm install
 ## Project Structure
 The project structure is as follows:
 ```
-SimpleTodo/
-├── public/               # 静态资源
+-cards-memory-game/
+├── public/
+│   ├── index.html  # HTML template
+│   └── ...         # Other public files
 ├── src/
-│   ├── components/       # 组件
-│   ├── App.vue           # 主界面
-│   └── main.js           # 启动入口
-├── package.json
-└── README.md
+│   ├── components/ # All React components
+│   ├── App.js      # Main application component
+│   ├── App.test.js # Test file for App component
+│   ├── index.css   # Global CSS file
+│   ├── index.js    # Entry point for the React application
+│   └── ...         # Other source files
+├── .gitignore      # Specifies untracked files to be ignored by Git
+├── package.json    # Manages project dependencies and scripts
+├── package-lock.json # Locks dependency versions for consistent installation
+├── README.md       # Project documentation file
+└── ...             # Other files and directories
 ```
 ## Deployment Steps
-### 1. Start the Development Server
-Run the following command in the project directory to start the development server and view the application:
+### Running in Development Mode
+1. Install live-server:
 ```bash
-npm start
+npm install -g live-server
 ```
-### 2. Production Build
-Before deploying to a production environment, run the following command to create a production build:
+2. Start the development server:
 ```bash
-npm run build
+live-server
 ```
-### 3. Deploy
-Deploy the contents of the `build` folder to your static file server. You can use various services like Netlify, Vercel, or GitHub Pages to host your application.
+3. The browser will automatically open `http://localhost:8080`
 
-<!--dengsiyu>
+### Server Deployment
+1. Upload the project files to the web server's root directory (e.g., Apache/Nginx)
+2. Ensure the `index.html` file is accessible via the URL
+
+<!-- by dengsiyu  -->
