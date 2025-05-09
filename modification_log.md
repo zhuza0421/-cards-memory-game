@@ -24,3 +24,5 @@
    - **中文**：HTML5 自定义数据属性访问方式  
    - **英文**：An interface to access custom data attributes (`data-*`) of an element.  
    - **解释**：通过 `element.dataset.key` 读写元素上以 `data-` 开头的自定义属性。  
+   
+   这些术语是 **Web 前端开发** 中的核心概念，涵盖 DOM 操作、事件处理和异步行为控制。
