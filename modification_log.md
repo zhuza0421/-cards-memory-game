@@ -1,15 +1,21 @@
-# Screenshot Documentation
+## 📮 项目主要功能说明与截图
 
-## Screenshot 1: Game Structure Explanation
-![AI Screenshot 1](ai_usage_screenshots/2205308010331_1.png)  
-*Used AI to research the memory card game's structure explanation and adapted it according to the actual project structure*
+```markdown
+![ai截图](ai_usage_screenshots/2205308010320_1.png)
+```
+## 第一次ai修改
+在git上得到了相应的游戏项目介绍让ai进行扩充得到了卡牌记忆游戏是一款经典的翻牌配对游戏然后将两者相结合就得到了我的第一次提交的项目介绍。
 
-## Screenshot 2: Deployment Operations Guide  
-![AI Screenshot 2](ai_usage_screenshots/2205308010331_2.png)  
-*Used AI to search for deployment guidelines of the memory card game to help set up the environment more effectively*
+## 第二次ai修改
+```markdown
+![ai截图](ai_usage_screenshots/2205308010320_2.png)
+```
+根据ai搜索可以知道项目特点是什么在这个基础上我进行了扩充
 
-## Screenshot 3: Markdown Format Conversion
-![AI Screenshot 3](ai_usage_screenshots/2205308010331_3.png)  
-*Used AI to learn methods for converting game structure to English Markdown format*
+## 第三次ai修改
+```markdown
+![ai截图](ai_usage_screenshots/2205308010320_3.png)
+```
+根据图片可以知道我让ai对第一次提交的内容进行10处修改，然后自己再进行润色得到第二次提交的内容。
 
-<!-- by dengsiyu  -->
+<!-- by qinhaixia  -->

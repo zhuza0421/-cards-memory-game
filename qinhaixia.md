@@ -1,16 +1,28 @@
 # Card Memory Game
 
-The Card Memory Game is a classic card-matching game implemented in multiple technologies including:
-- Vanilla JavaScript
+## Project Introduction
+
+- The Card Memory Game is a puzzle game based on the classic memory-matching principle, showcasing modern front-end development best practices through a multi-technology stack implementation. Players are required to flip and match pairs of cards to test and exercise their memory skills.
+
+## Gameplay Mechanics
+- The game typically includes multiple cards with identical back designs, while the fronts conceal various patterns, numbers, or images.
+- Players can flip two cards each turn.
+- Successfully matched pairs remain face-up.
+- Unmatched cards are flipped back to their hidden state.
+
+## Technical Implementation
+Implemented using:
+- JavaScript
 - Svelte
 - Vue
-- React
+- React  
 - TypeScript
 
-Players flip cards to find and match identical pairs. This project showcases implementations using mainstream frontend frameworks/libraries:
+## Project Refactoring
+This project will be reconstructed using the following mainstream front-end frameworks/libraries:
 - React
-- Vue (Vue.js)
-- Svelte
+- Vue series (Vue.js) 
+- Svelte 
 
 ## Project Features
 
