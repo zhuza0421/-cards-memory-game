@@ -1,4 +1,4 @@
-```markdown
+``markdown
 # Technical Documentation Enhancement Request
 
 ## 1. Request for AI Markdown Format Specification
@@ -53,4 +53,4 @@
   - **Browser Support**: IE8+ (partial), modern browsers (full)
   ```
 
-<-- by:zoujinyu(邹金玉)--->
+<-- by:zoujinyu(邹金玉)-->
