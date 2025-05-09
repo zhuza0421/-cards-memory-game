@@ -1,33 +1,3 @@
-# cards-memory-game
-
-A classic card game, flip and match the cards done in Vanilla JavaScript, Svelte, VUE, React and TypeScript.
-
-Show love 💜 to the repo by giving a ⭐
-
-## Preview
-
-![memorie game example](https://github.com/GeraAlcantara/cards-memory-game/blob/main/img/gameExample.gif?raw=true)
-
-### The game will be recreated in the following JavaScript libraries:
-
-- React
-- VUE
-- Svelte
-
-### cards-memory-game Base
-
-You can find the game under the folder gameBase.
-Please review it before you try to implement it in any library.
-
-Please check the [contribution.md](https://github.com/GeraAlcantara/cards-memory-game/blob/main/CONTRIBUTING.md) for contributing purposes.
-
-Resources:
-Base on the proyect of [Marina Ferreira](https://github.com/marina-ferreira)
-
-[Medium Post](https://medium.com/free-code-camp/vanilla-javascript-tutorial-build-a-memory-game-in-30-minutes-e542c4447eae)
-
-[Repository](https://github.com/code-sketch/memory-game)
-
 # 卡牌记忆游戏：多技术栈实现与现代前端开发实践
 
 卡牌记忆游戏是一款经典的益智游戏，以记忆匹配为核心玩法。玩家需翻转并匹配成对的卡牌，锻炼记忆力。游戏包含多张背面相同的卡牌，正面隐藏着图案、数字或图片。每次可翻转两张卡牌，匹配成功则保持翻开状态，否则翻回背面。本项目采用 JavaScript、Svelte、Vue、React 和 TypeScript 等多技术栈实现，旨在展示现代前端开发的最佳实践。
