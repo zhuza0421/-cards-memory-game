@@ -125,5 +125,5 @@
 4. `setTimeout` 的延迟时间不精确，不可依赖其做精确计时
 5. `dataset` 操作会触发 DOM 重绘，频繁操作可能影响性能
 
-<!-- by: Zou Jinyu (邹金玉) -->
+<!-- by: Zou Jinyu -->
 ```
